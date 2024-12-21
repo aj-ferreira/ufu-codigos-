@@ -1,0 +1,6 @@
+nao consegui implementar devido ao seguinte erro no cmd
+Warning: generation and use of skeletons and static stubs for JRMP
+is deprecated. Skeletons are unnecessary, and static stubs have
+been superseded by dynamically generated stubs. Users are
+encouraged to migrate away from using rmic to generate skeletons and static
+stubs. See the documentation for java.rmi.server.UnicastRemoteObject.
